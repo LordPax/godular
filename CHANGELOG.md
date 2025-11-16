@@ -1,6 +1,12 @@
 # Changelog
 
-### [0.1.1] - 2025-11-16
+## [0.1.2] - 2025-11-16
+
+### Fixed
+
+- Remove install dependencies step from github workflow
+
+## [0.1.1] - 2025-11-16
 
 ### Fixed
 
